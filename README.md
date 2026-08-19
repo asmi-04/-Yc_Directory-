@@ -6,37 +6,37 @@ A modern full-stack startup discovery and pitching platform inspired by Y Combin
 
 ### Home Page
 
-![Home Page]
 <img width="2940" height="1688" alt="image" src="https://github.com/user-attachments/assets/e3fd4f97-a92e-4dd1-b393-611b7e5341c7" />
+
 <img width="2940" height="1688" alt="image" src="https://github.com/user-attachments/assets/381dadd8-e479-47b8-9b30-69045f2dc354" />
 
 ### Startup Details
 
-![Startup Details]
 <img width="2940" height="1688" alt="image" src="https://github.com/user-attachments/assets/7429f1bd-f7a5-46bc-b5e0-00b929b8a868" />
+
 <img width="2940" height="1688" alt="image" src="https://github.com/user-attachments/assets/39bdc8de-2ddd-4beb-9a75-c1cf58738512" />
 
 ### User Details
-![User Startup]
+
 <img width="2940" height="1688" alt="image" src="https://github.com/user-attachments/assets/b2ff9ebd-dd76-4571-811a-40e9ad567833" />
+
 <img width="2940" height="1688" alt="image" src="https://github.com/user-attachments/assets/abb1b3ea-dda5-4957-9ff0-efc341835b24" />
 
 ### Create Startup
 
-![Create Startup]
+
 <img width="2940" height="1688" alt="image" src="https://github.com/user-attachments/assets/afe3874a-d8db-43db-a81b-b42d7150b8a5" />
+
 <img width="2940" height="1688" alt="image" src="https://github.com/user-attachments/assets/d8fad1f3-ed71-4748-a0c7-b61be32ad47d" />
 
 ### Sentry User feedback
-![Sentry user setup]
 <img width="2940" height="1688" alt="image" src="https://github.com/user-attachments/assets/892f7222-1556-41b3-883c-528aa23aae91" />
 
 ### Search
-![Search]
+
 <img width="2940" height="1688" alt="image" src="https://github.com/user-attachments/assets/41e395af-6a20-4fb0-9ca7-65970a57b65b" />
+
 <img width="2940" height="1688" alt="image" src="https://github.com/user-attachments/assets/0c24a183-a480-4577-86e8-0b512328d38b" />
-
-
 
 ## ✨ Features
 
